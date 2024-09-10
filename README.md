@@ -1,3 +1,2 @@
 # Tuesday_repo
-Test for uploading to Git
-second test to streamline
+testing an upload to a new repo
